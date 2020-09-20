@@ -11,13 +11,11 @@ so eax = edx
 
 >add     eax, eax
 
-eax = 2 * eax 
+eax = eax  + eax  = 2 eax 
 
 >add     eax, edx
 
-eax = 2 * eax + eax 
-
-eax = 3 eax 
+eax = 2 eax + eax = 3 eax 
 
 >sal     eax, 2 
 
@@ -25,7 +23,7 @@ sal is **left shifts** (**multiplies**)
 
 shift 2 bytes is equal to multiply by 4 
 
-so eax = 4 *(3 eax )
+so eax = 4 *(3 eax ) = 12 eax 
 
 >sub     eax, 3571200
 
