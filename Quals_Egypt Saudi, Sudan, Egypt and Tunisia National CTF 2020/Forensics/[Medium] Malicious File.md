@@ -1,4 +1,4 @@
-** Malicious File**
+**Malicious File**
 ====================
 >Description :  while investigating a compromised machine the examiner found a suspicious file executed. the file belongs to windows crack he needs to find the MFT entry number for the directory where the file executed.
 flag format: md5 of string
