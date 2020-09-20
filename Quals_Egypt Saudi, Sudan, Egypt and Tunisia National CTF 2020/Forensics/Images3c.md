@@ -10,4 +10,4 @@ So I decided to use **Steghide**.
  
 passphrase was required so I use **Stegcracker** to make bruteforce.
 
-[]
+![](images/images3c.png).
