@@ -18,11 +18,11 @@ After some searching , A friend gave me a hint to change the **Main activity** o
 
 from
 
-![](/images/iso2)
+![](/images/iso2.png)
 
 to
 
-![](/images/iso3)
+![](/images/iso3.png)
 
 3) now Recompile and sign the app then run it , you can see commands [here](https://medium.com/@sandeepcirusanagunla/decompile-and-recompile-an-android-apk-using-apktool-3d84c2055a82)
 
