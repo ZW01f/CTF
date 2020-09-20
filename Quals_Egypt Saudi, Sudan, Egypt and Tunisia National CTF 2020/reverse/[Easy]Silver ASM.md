@@ -21,7 +21,7 @@ eax = 3 eax
 
 >sal     eax, 2 
 
-note : sal is **left shifts** (**multiplies**)
+sal is **left shifts** (**multiplies**)
 
 shift 2 bytes is equal to multiply by 4 
 
