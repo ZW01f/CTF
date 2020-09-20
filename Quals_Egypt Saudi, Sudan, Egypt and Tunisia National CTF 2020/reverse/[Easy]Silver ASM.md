@@ -10,6 +10,7 @@ we got an assembly code , we can trace the code to make a simple equation to get
 so eax = edx 
 
 >add     eax, eax
+
 eax = 2 * eax 
 
 >add     eax, edx
