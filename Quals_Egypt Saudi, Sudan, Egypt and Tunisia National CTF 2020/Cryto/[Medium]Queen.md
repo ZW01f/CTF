@@ -7,7 +7,7 @@ First . We got 4 files with strange  character .
 
 so I used the description to get any hint and found a cipher type called **Mary Queen of Scotes**
 
-![]images(images/queen1.png.png)
+![](images/queen1.png.png)
 
 according to cipher symbols we are searching for an image 
 
