@@ -4,7 +4,7 @@ running  the apk we see that it asks for a Username and a Password but there is 
 
 ![](images/iso1.png)
 
-I used an online apk decompiler to do some analysis but i found no thing usefull 
+I used an online apk decompiler to do some analysis but i found nothing usefull 
 
 so i got an idea to bypass the login screen 
 
